@@ -8,9 +8,9 @@ I have developed several applications with Flutter for mobile applications. Give
 
 I have also worked with web development, and have quite some experience with both front-end and back-end development. My preferred stack for a project would usually be Next.js and TailwindCSS, with Nest.js and Fastify, PostgreSQL, and Prisma. And of course, I use type safety all the way; if you use JavaScript instead of TypeScript, then I'm sorry, but we cannot be friends. I think I found my "calling", at least in terms of software engineering, when I started working on the backend service for Athena. I love the detialed intricacies that come with backend developement. It always feels like every small update I make leads to more rabbit holes I dive down as I research the delicate yet robust techniques and technologies that exist to create the amazing services that we use on a daily basis. 
 
-* 🌍  I'm based in Boulder, CO
-* ✉️  You can contact me at [rahulshamkuwar20@gmail.com](mailto:rahulshamkuwar20@gmail.com)
-* 🚀  I'm currently working on [Athena](http://github.com/SkillSprint/Athena-Backend)
+* 🌍  I'm based in Boulder, CO.
+* ✉️  You can contact me at [rahulshamkuwar20@gmail.com](mailto:rahulshamkuwar20@gmail.com).
+* 🚀  I'm currently working on [Athena](http://github.com/SkillSprint/Athena-Backend) and [Blueprint Boulder](https://github.com/Blueprint-Boulder)'s [Website](https://github.com/Blueprint-Boulder/website).
 
 ### Skills
 
