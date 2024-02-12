@@ -10,7 +10,7 @@ I have also worked with web development, and have quite some experience with bot
 
 * 🌍  I'm based in Boulder, CO.
 * ✉️  You can contact me at [rahulshamkuwar20@gmail.com](mailto:rahulshamkuwar20@gmail.com).
-* 🚀  I'm currently working on [Athena](http://github.com/SkillSprint/Athena-Backend) and [Blueprint Boulder](https://github.com/Blueprint-Boulder)'s [Website](https://github.com/Blueprint-Boulder/website).
+* 🚀  I'm currently working on [Blueprint Boulder](https://github.com/Blueprint-Boulder)'s [Website](https://github.com/Blueprint-Boulder/website).
 
 ### Skills
 
@@ -31,5 +31,3 @@ I have also worked with web development, and have quite some experience with bot
 <a href="http://www.github.com/rahulshamkuwar"><img src="https://github-readme-stats.vercel.app/api?username=rahulshamkuwar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rahulshamkuwar's GitHub stats" /></a>
 
 <a href="http://www.github.com/rahulshamkuwar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshamkuwar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/rahulshamkuwar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshamkuwar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
